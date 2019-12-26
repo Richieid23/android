@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ProfileRizki</string>
+    <string name="namaku">Muh. Fitra Rizki</string>
+    <string name="akunku">\@richie_id22</string>
+    <string name="alamat">Lombok, Nusa Tenggara Barat</string>
+    <string name="btn_ubah">Ubah Akun</string>
+    <string name="diikuti">Diikuti</string>
+    <string name="galeri">Galeri</string>
+    <string name="pengikut">Pengikut</string>
+    <string name="foto">Foto</string>
+    <string name="profil">Akun</string>
+</resources>
